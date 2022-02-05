@@ -1,0 +1,2 @@
+# GameObjectPoolManager
+[Beta]
